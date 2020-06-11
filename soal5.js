@@ -1,12 +1,12 @@
-let name = "Geraldo";
+let namee = "Geraldo";
 let fromHouse = "Depok";
 let agee = 21;
 let jobPositionn = "Web Developer";
 
 let person = {
-  name,
-  from,
-  age,
-  jobPosition,
+  namee,
+  fromHouse,
+  agee,
+  jobPositionn,
 };
 console.log(person);
